@@ -1,0 +1,15 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.header__title {
+  text-transform: uppercase;
+  color: blue;
+  font-size: 40px;
+}
+/*# sourceMappingURL=style.css.map */
